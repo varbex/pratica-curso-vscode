@@ -9,7 +9,6 @@
 - Alternar o file explorer -> Control + Shift + E
 - Alternar o painel de problemas -> Control + Shift + M
 - Alternar o painel do terminal -> Control + '
-- Abrir novo terminal -> Control + Shift + '
 - Mudar o tema -> Control + K Control + T
 - Abrir Settings -> Control + ,
 - Modo-Zen -> Control + K Z
@@ -46,3 +45,13 @@
 - Comentar/Descomentar Bloco -> Control + Shift + A
 - Identar -> Tab
 - Desindentar-> Shift + Tab
+## Atalhos do Painel
+- Abrir novo terminal -> Control + Shift + '
+- Alternar o painel do terminal -> Control + '
+- Terminais Side-By-Side -> Control + Shift + 5
+- Alternar terminais -> Alt + Arrow Key
+- Inicio do terminal -> Control + Home
+- Fim do terminal -> Control + End
+- Buscar -> Control + F
+- Abrir Link -> Control + Left Click
+- Abrir CMD externowwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww -> Control + Shift + C
